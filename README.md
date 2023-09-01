@@ -1,4 +1,4 @@
-![logo](https://github.com/riazsarker/Md-Riaz/blob/main/Github%20banner.gif)
+![logo](https://github.com/riazsarker/riazsarker/blob/main/Github%20banner.gif)
 
 <h1 align="center">Hi 👋, I'm Md Riaz</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
